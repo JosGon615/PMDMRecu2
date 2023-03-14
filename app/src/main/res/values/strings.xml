@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PMDMRecu2</string>
+    <string name="t_tulo">Título</string>
+    <string name="n_p_ginas">Nº Páginas</string>
+    <string name="continuar">continuar</string>
+    <string name="autor">Autor</string>
+    <string name="fecha_publicaci_n">Fecha Publicación</string>
+    <string name="atras2">atras</string>
+</resources>
